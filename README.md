@@ -1,4 +1,3 @@
-# excel-challenge
 This project used excel to format and analyze crowdfunding data. 
 
 This project was completed using the following workflow: 
