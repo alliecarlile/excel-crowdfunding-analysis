@@ -1,24 +1,7 @@
 # excel-challenge
-Background
-Crowdfunding platforms like Kickstarter and Indiegogo have been growing in success and popularity since the late 2000s. From independent content creators to famous celebrities, more and more people are using crowdfunding to launch new products and generate buzz, but not every project has found success.
+This project used excel to format and analyze crowdfunding data. 
 
-To receive funding, the project must meet or exceed an initial goal, so many organizations dedicate considerable resources looking through old projects in an attempt to discover “the trick” to finding success. For this week's Challenge, you will organize and analyze a database of 1,000 sample projects to uncover any hidden trends.
-
-Before You Begin
-Create a new space for this project called excel-challenge in either Dropbox or Google Drive. Do not add this Challenge to an existing repository.
-
-Store your Excel workbooks here in this new space, and create a sharable link for submission.
-
-Files
-Download the following files to help you get started:
-
-Module 1 Challenge filesLinks to an external site.
-
-Instructions
-A table contains a database of 1,000 sample crowdfunding projects.
-Using the Excel workbook in your .zip file, modify and analyze the sample-project data and try to uncover market trends.
-
-This dataset was created by Trilogy Education Services, a 2U, Inc. brand.
+This project was completed using the following workflow: 
 
 Use conditional formatting to fill each cell in the outcome column with a different color, depending on whether the associated campaign was successful, failed, canceled, or is currently live.
 
@@ -51,10 +34,6 @@ Now, create a pivot-chart line graph that visualizes this new table.
 
 Create a report in Microsoft Word, and answer the following questions:
 
-Given the provided data, what are three conclusions that we can draw about crowdfunding campaigns?
-What are some limitations of this dataset?
-What are some other possible tables and/or graphs that we could create, and what additional value would they provide?
-Bonus
 Create a new sheet with 8 columns:
 
 Goal
@@ -105,10 +84,9 @@ Add up each of the values in the Number Successful, Number Failed, and Number Ca
 
 Create a line chart that graphs the relationship between a goal amount and its chances of success, failure, or cancellation.
 
-Bonus Statistical Analysis
 Most people would use the number of campaign backers to assess the success of a crowdfunding campaign. Creating a summary statistics table is one of the most efficient ways that data scientists can characterize quantitative metrics, such as the number of campaign backers.
 
-For an additional challenge, evaluate the number of backers of successful and unsuccessful campaigns by creating your own summary statistics table.
+Evaluate the number of backers of successful and unsuccessful campaigns by creating a summary statistics table.
 
 Create a new worksheet in your workbook, and create one column for the number of backers of successful campaigns and one column for unsuccessful campaigns.
 
@@ -127,9 +105,10 @@ The variance of the number of backers
 
 The standard deviation of the number of backers
 
-Use your data to determine whether the mean or the median better summarizes the data.
+**Methods used:**
 
-Use your data to determine if there is more variability with successful or unsuccessful campaigns. Does this make sense? Why or why not?
+Excel 
 
-Submission
-To submit your Challenge assignment, click Submit, and then provide the URL of your GitHub repository for grading.
+Pivot Tables 
+
+Conditional Formatting
